@@ -1,5 +1,2 @@
-# modern-project
-it is program to accept user and store it
-
-## hello-world
-hello mo salah
+# My Name is ahmed saleh
+## Age 30
